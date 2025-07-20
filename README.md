@@ -15,6 +15,11 @@ This Excel-based Financial Analysis Dashboard showcases advanced Excel features 
 
 ## 🔧 Features & Tools Used
 
+### ✅ Advanced Excel Functions:
+- INDEX + MATCH – Dynamic value lookups
+- SUMIFS – Conditional totals based on multiple criteria
+- TEXT – Create Month-Year column for trend grouping
+- VLOOKUP (optional) – Simple value lookup
 
 ### ✅ Data Modeling:
 - Structured Excel Tables (`Ctrl + T`)
